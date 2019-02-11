@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseApplicationTester</string>
+    <string name="le_token_de_notification_va_apparaitre_ici">Le token de notification va apparaitre ici</string>
+</resources>
